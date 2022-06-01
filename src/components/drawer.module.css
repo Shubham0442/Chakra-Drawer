@@ -1,0 +1,20 @@
+.iconDiv{
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    display:flex;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.iconDiv:hover{
+    background-color: aqua;
+    color: white;
+}
+
+
+
+
+
